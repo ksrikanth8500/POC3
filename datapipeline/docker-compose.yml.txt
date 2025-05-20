@@ -331,11 +331,6 @@ volumes:
   postgres-dwh-volume:
   minio_storage:
   postgres-db-volume:
-  mysql-openmetadata:
-  ingestion-volume-dag-airflow:
-  ingestion-volume-dags:
-  ingestion-volume-tmp:
-  es-data:
 configs:
   flags:
     file: ./flags.yml
