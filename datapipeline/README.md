@@ -1,4 +1,5 @@
 CSV-to-PostgreSQL Data Pipeline Setup
+
 This guide outlines the setup and execution of a data pipeline that ingests CSV files from Minio (S3-compatible storage), uses Airbyte for data ingestion, stores data in PostgreSQL, and leverages Prefect 2.x for data cleaning, transformation, and validation.
 🚀 Step-by-Step Setup
 1. Prerequisites
